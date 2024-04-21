@@ -4,7 +4,7 @@ As a seasoned SAP developer I specialize in creating tailored solutions that com
 
 - 15+ years as SAP developer in ABAP/4 and ABAP-OO.
 - 15+ years working with SAP ERP (focus on modules SAP-SD, SAP-MM and SAP-MDG).
-- 4+ years in combining various web-technologies (focus: HTML/CSS/PHP/Javascript, etc.)
+- 5+ years in combining various web-technologies (focus: HTML/CSS/PHP/Javascript, etc.)
 - 1+ years working with Node.js and npm
 
 Links:
