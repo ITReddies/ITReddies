@@ -7,9 +7,6 @@ As a seasoned SAP developer I specialize in creating tailored solutions that com
 - 5+ years in combining various web-technologies (focus: HTML/CSS/PHP/Javascript, etc.)
 - 1+ years working with Node.js and npm
 
-Links:
-https://people.sap.com/ingoreddies
-https://github.com/ITReddies
 
 
 
